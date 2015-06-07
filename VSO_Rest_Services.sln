@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSO_Rest_Services", "VSO_Rest_Services\VSO_Rest_Services.csproj", "{8C6702EE-CB93-417F-9D62-DD662CB793EC}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://vsalm:8080/tfs/fabrikamfibercollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = VSO_Rest_Services\\VSO_Rest_Services.csproj
+		SccProjectName1 = VSO_Rest_Services
+		SccLocalPath1 = VSO_Rest_Services
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6702EE-CB93-417F-9D62-DD662CB793EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6702EE-CB93-417F-9D62-DD662CB793EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6702EE-CB93-417F-9D62-DD662CB793EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6702EE-CB93-417F-9D62-DD662CB793EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
