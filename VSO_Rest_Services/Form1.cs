@@ -354,7 +354,7 @@
             txtMessage.Text = String.Empty;
             rbtYes.Checked = true;
             strMessage = String.Empty;
-
+            //This is a comment
         }
 
      }
