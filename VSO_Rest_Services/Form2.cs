@@ -19,7 +19,7 @@ namespace VSO_Rest_Services
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            this.texstbox1.test = "demo"
+            this.textBox1.Text = "demo";
         }
     }
 }
